@@ -1,0 +1,2 @@
+# Socialize-v2.30.2---Multi-Purpose-BuddyPress-Theme
+Socialize is a multi-purpose BuddyPress theme making it the perfect choice if you want to create a community or social network. So what is BuddyPress? Basically it’s a plugin that lets you create any kind of social network using WordPress, with member profiles, activity streams, user groups, private messaging and much more. Socialize has been specifically designed to make the most out of BuddyPress and has also totally redesigned bbPress so it now looks like a traditional forum.
